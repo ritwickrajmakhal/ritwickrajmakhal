@@ -16,11 +16,11 @@
   </a>
 </div>
 
-###
+<div align="center">
+  
+  [![OSSRank](https://ossrank.com/widget/895446)](https://ossrank.com/c/895446-ritwickrajmakhal)
 
-[![OSSRank](https://ossrank.com/widget/895446)](https://ossrank.com/c/895446-ritwickrajmakhal)
-
-###
+</div>
 
 <h1 align="center">Hey there 👋, I'm Ritwick</h1>
 
