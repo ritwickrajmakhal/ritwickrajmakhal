@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🎓 I'm a 3rd year student at Calcutta Institute of Technology pursuing CSE.<br>🌱  I'm currently learning to become a full stack developer.</p>
+<p align="left">🎓 I'm a 4th year student at Calcutta Institute of Technology pursuing CSE.</p>
 
 ###
 
