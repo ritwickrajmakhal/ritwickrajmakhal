@@ -5,6 +5,9 @@
 ###
 
 <div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=ritwickrajmakhal&color=brightgreen&style=plastic)
+  <br>
   <a href="https://www.linkedin.com/in/ritwick-raj-makhal-017a10217" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
