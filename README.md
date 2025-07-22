@@ -22,10 +22,7 @@
 </div>
 
 <div align="center">
-  
-  [![OSSRank](https://ossrank.com/widget/895446)](https://ossrank.com/c/895446-ritwickrajmakhal)
-  <img src="https://github-readme-stats.vercel.app/api?username=ritwickrajmakhal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  
+  <a href="https://gitroll.io/profile/utCEAA4uE2ONzrNyW5Nud85bnhMC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/utCEAA4uE2ONzrNyW5Nud85bnhMC2?theme=light" alt="GitRoll Profile Badge"/></a>
 </div>
 
 ###
@@ -76,8 +73,10 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritwickrajmakhal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ritwickrajmakhal&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritwickrajmakhal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritwickrajmakhal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  
   
 </div>
 
