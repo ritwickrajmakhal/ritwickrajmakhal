@@ -1,7 +1,7 @@
 [![An image of @ritwickrajmakhal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritwickrajmakhal)](https://holopin.io/@ritwickrajmakhal)
 
 <h1 align="center">Hey there 👋, I'm Ritwick </h1>
-<h2 align="center">"🏆 Won a ROG Zephyrus G16 at MindsDB Hacktoberfest 2024! 🚀"</h2>
+<h2 align="center">"🏆 Won a ROG Zephyrus G16 💻 at MindsDB Hacktoberfest 2024! 🚀"</h2>
 
 
 ###
@@ -81,3 +81,4 @@
 </div>
 
 ###
+
