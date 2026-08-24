@@ -74,8 +74,10 @@
 <div align="center">
   
   <img src="https://streak-stats.demolab.com?user=ritwickrajmakhal&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ritwickrajmakhal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritwickrajmakhal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ritwickrajmakhal&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=ritwickrajmakhal&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=codeSTACKr)
+  
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ritwickrajmakhal&layout=donut&langs_count=5&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=ritwickrajmakhal&layout=donut&langs_count=5&theme=codeSTACKr)
   
   
 </div>
